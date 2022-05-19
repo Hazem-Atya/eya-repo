@@ -1,8 +1,8 @@
 "CodeA","NomPrenom","Genre","Taille","Poids"
-"A01","SALHI H","Homme",189,90
-"A02","CHTOUROU Anas","Homme",169,65
-"A03","ALOUI Najet","Femme",164,54
-"A04","HILELI Fedwa","Femme",185,110
-"A05","CHAABEN Hatem","Homme",152,42
-"A06","TOUNSI Mahdi","Homme",170,88
-"A07","BEN HMIDA Alia","Femme",165,60
+"A01","SALHI H","Homme",189,10
+"A02","CHTOUROU Anas","Homme",169,20
+"A03","ALOUI Najet","Femme",164,30
+"A04","HILELI Fedwa","Femme",185,40
+"A05","CHAABEN Hatem","Homme",152,50
+"A06","TOUNSI Mahdi","Homme",170,60
+"A07","BEN HMIDA Alia","Femme",165,70
